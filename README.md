@@ -1,0 +1,1 @@
+Un cliente que se dedica a la estadìstica y probabilìstica està intentando crear un dispositivo que lo ayude a realizar los gráficos que necesita automàticamente. Para ello nos solicita un Algoritmo que dada cualquier matriz de tamaño n*m  ordene todas las diagonales de forma ascendente, pero primero deberán estar los números positivos, luego los ceros y después los negativos.
